@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.navbar-brand {
+  color: white !important;
+  padding-left: 50px;
+  font-weight: bold;
+}
+.nav-link {
+  color: antiquewhite;
+}
+
+.nav-link:hover {
+  color: yellow !important;
+}
+.navbar-nav {
+  padding-right: 50px;
+}
+
+.services-header {
+  text-underline-offset: 8px;
+  font-weight: 600;
+}
